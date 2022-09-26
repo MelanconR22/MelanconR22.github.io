@@ -97,7 +97,7 @@ function buildCharts(sample) {
         tickmode: "array",
         tickvals: [0,1,2,3,4,5,6,7,8,9,10],
         ticktext: yticks,
-        hovermode: "closest",
+        hovermode: "closest"
         // hovertemplate: "<b>%{otuIds}</b><br><br> + {otuLabels}<br>"
       },
      
